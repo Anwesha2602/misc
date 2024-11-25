@@ -16,3 +16,13 @@ Future Scope
 The demand forecasting model developed in this project lays the foundation for further improvements in predictive analytics and efficient inventory management. Future work could enhance the model’s accuracy by incorporating additional exogenous variables that drive business growth such as weather data, marketing campaigns, market conditions and more.
 By including external aspects that could allow for real-time decision-making and the achievement of long-term objectives, the two-month projection can be extended across a wider time horizon.
 Finally, the forecasting model could be scaled across different business segments making it serve as a versatile tool for overall business growth. This would ensure a comprehensive, data-driven approach to meeting consumer demand while minimizing operational inefficiencies.
+Conclusion
+This project successfully developed a demand forecasting model aimed at predicting sales, with a focus on the top 10 highest selling symbols.
+The model offers practical insights to improve inventory planning and sales strategy through an organized process encompassing data cleaning, aggregation, and time series preparation.
+
+Data-driven decision-making has been made possible by the combination of monthly demand data with symbol-specific forecasting, which has allowed for precise projections over a two-month horizon. The study emphasizes how crucial it is to use historical sales data and data analytics to tackle practical demand estimation issues.
+This project highlights the need of real-world application in bridging the gap between technology and industry demands. 
+
+Even though the model performed well with near accurate results, there is still room for improvement in the future, such as adding more external components, broadening the scope of the forecasting, and utilizing more sophisticated approaches. 
+All things considered, the project is a big step in the right direction toward increasing supply chain effectiveness and efficient inventory management. 
+
